@@ -2,14 +2,15 @@
 
 Solución al reto:
 
-Nombre:
+Nombre: Alexander Hinestroza Palacios
 Usuario Platzi:
-Correo Electronico:
+Correo Electronico: ahinestroza1116@gmail.com
+GitHub Pages: https://alextyle8.github.io/
 
 ## Reto:
 
-- [ ] Primer problema
-- [ ] Segundo problema
-- [ ] Tercer problema
-- [ ] Cuarto Problema
-- [ ] Quinto Problema
+- [x] Primer problema
+- [x] Segundo problema
+- [x] Tercer problema
+- [x] Cuarto Problema
+- [x] Quinto Problema
