@@ -4,18 +4,6 @@ Somos comercio en línea con una gran cantidad de productos a comercializar. Est
 
 PlatziStore tiene varios bugs, tareas sin completar y recursos a implementar para su lanzamiento oficial.
 
-### Solución Primer reto del Ethereum Developer Program
-- Nombre: Alexander Hinestroza Palacios
-- Usuario Platzi: Alextyle
-- correo registrado en Platzi: ahinestroza1116@hotmail.com
-- GitHub Pages: https://alextyle8.github.io/
-
-### Problemas
-- Primer problema (OK)
-- Segundo problema (OK)
-- Tercer problema (OK)
-- Cuarto problema (OK)
-- Quinto problema (OK)
 
 ### Instalación
 
